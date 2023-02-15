@@ -91,7 +91,10 @@ body{
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 40%;
+    margin-bottom: 20rem;
+    
+    
 }
 .rodape{
     color: var(--cor-primaria);
@@ -119,6 +122,9 @@ body{
     }
     .apresentacao__conteudo {
         width: auto;
+    }
+    .apresentacao__imagem {
+        margin-bottom: 0;
     }
    
   }
